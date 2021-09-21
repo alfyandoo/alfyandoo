@@ -1,3 +1,4 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=alfyandoo.alfyandoo)
 ### Hi! 👋 I'am Alfyando.
 
 <!--
