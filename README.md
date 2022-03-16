@@ -1,6 +1,20 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=alfyandoo.alfyandoo)
 ### Hi! 👋 I'am Alfyando.
 
+<b>Languages:</b><br>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br>
+
+<b>Dev Tools:</b><br>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br>
+
+<b>Catch me:</b><br>
+<a href="https://linkedin.com/alfyandoo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <!--
 **alfyandoo/alfyandoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
