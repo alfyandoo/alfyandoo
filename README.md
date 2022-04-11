@@ -1,5 +1,5 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=alfyandoo.alfyandoo)
-### Hi! 👋 I'am Alfyando.
+### Hi!  <img src="/src/wave.gif" width="30px"> I'am Alfyando.
 
 <b>Languages:</b><br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
