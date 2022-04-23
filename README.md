@@ -1,7 +1,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=alfyandoo.alfyandoo)
 ## Hi!  <img src="/src/wave.gif" width="30px"> I'am Alfyando.
 
-<b>Languages:</b><br>
+<b>Keep Learn Languages:</b><br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
